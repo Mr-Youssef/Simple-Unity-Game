@@ -1,0 +1,1 @@
+Move right or left to avoid obstacles (but be careful not to fall, press gently)
